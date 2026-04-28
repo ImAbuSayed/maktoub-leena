@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك تسرق النوم من ليلي
+> ونار الشوق تكوي كل أحلامي
+> في كل دقة قلب أسمع صدى همسك
+> مكتوب علينا الهوى في كل أيامي
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
